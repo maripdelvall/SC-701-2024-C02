@@ -1,0 +1,10 @@
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\bin\Debug\BaseDeDatos.dacpac
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\obj\Debug\BaseDeDatos.sqlproj.AssemblyReference.cache
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\obj\Debug\Model.xml
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\obj\Debug\refactor.xml
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\obj\Debug\postdeploy.sql
+C:\Users\mpaul\source\repos\SC-701-2024-C02\SC-701-2024-C02\Pokemon\BaseDeDatos\obj\Debug\predeploy.sql
